@@ -143,7 +143,7 @@
         "creditos": 6,
         "correlativas": "ORGCOMPU-PDP",
         "categoria": "Materias Obligatorias",
-        "level": 3
+        "level": 4
     },
     {
         "id": "TDP",
@@ -167,7 +167,7 @@
         "creditos": 6,
         "correlativas": "PYE-BDD-MODNUM-TDA",
         "categoria": "Materias Obligatorias",
-        "level": 4
+        "level": 5
     },
     {
         "id": "PROGC",
@@ -175,7 +175,7 @@
         "creditos": 6,
         "correlativas": "SISOPS-TDP",
         "categoria": "Materias Obligatorias",
-        "level": 4
+        "level": 5
     },
     {
         "id": "REDES",
@@ -191,7 +191,7 @@
         "creditos": 6,
         "correlativas": "INGSOFTI",
         "categoria": "Materias Obligatorias",
-        "level": 4
+        "level": 5
     },
     {
         "id": "FPI",
@@ -217,7 +217,7 @@
         "creditos": 8,
         "correlativas": "BDD-INGSOFTI-TDP",
         "categoria": "Materias Obligatorias",
-        "level": 4
+        "level": 5
     },
     {
         "id": "SDI",
@@ -225,7 +225,7 @@
         "creditos": 6,
         "correlativas": "PROGC-REDES",
         "categoria": "Materias Obligatorias",
-        "level": 5
+        "level": 6
     },
     {
         "id": "EBTII",
@@ -233,7 +233,7 @@
         "creditos": 6,
         "correlativas": "EBTI",
         "categoria": "Materias Obligatorias",
-        "level": 5
+        "level": 6
     },
     {
         "id": "TDSINF",
