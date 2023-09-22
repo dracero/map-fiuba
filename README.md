@@ -2,6 +2,8 @@
 
 Mapa de materias y sus correlativas de la Facultad de Ingeniería
 
+Vamos a hacer cambios para establecer camino critico.
+
 ---
 
 La idea de este proyecto es presentar de una manera interactiva el plan de estudios de las carreras de la Facultad de Ingeniería, Universidad de Buenos Aires, para saber que materias se pueden cursar, cuantos créditos se tienen actualmente y demás.
