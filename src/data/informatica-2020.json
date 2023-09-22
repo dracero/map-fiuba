@@ -151,7 +151,7 @@
         "creditos": 8,
         "correlativas": "ORGCOMPU-PDP",
         "categoria": "Materias Obligatorias",
-        "level": 3
+        "level": 4
     },
     {
         "id": "INGSOFTI",
@@ -159,7 +159,7 @@
         "creditos": 8,
         "correlativas": "PDP",
         "categoria": "Materias Obligatorias",
-        "level": 3
+        "level": 4
     },
     {
         "id": "CDD",
@@ -167,7 +167,7 @@
         "creditos": 6,
         "correlativas": "PYE-BDD-MODNUM-TDA",
         "categoria": "Materias Obligatorias",
-        "level": 3
+        "level": 4
     },
     {
         "id": "PROGC",
