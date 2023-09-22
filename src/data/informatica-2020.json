@@ -103,7 +103,7 @@
         "creditos": 6,
         "correlativas": "AED-IDS",
         "categoria": "Materias Obligatorias",
-        "level": 2
+        "level": 3
     },
     {
         "id": "PYE",
@@ -127,7 +127,7 @@
         "creditos": 6,
         "correlativas": "AED-IDS",
         "categoria": "Materias Obligatorias",
-        "level": 2
+        "level": 3
     },
     {
         "id": "MODNUM",
@@ -135,7 +135,7 @@
         "creditos": 4,
         "correlativas": "AMII-AL-AED",
         "categoria": "Materias Obligatorias",
-        "level": 2
+        "level": 3
     },
     {
         "id": "BDD",
